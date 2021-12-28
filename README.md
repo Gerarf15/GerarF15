@@ -1,16 +1,13 @@
-### Hi there 👋
+### Buenas..!! 👋
 
-<!--
-**Gerarf15/GerarF15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Actualmente, curso en el bootcamp de #SoyHenry, la carrera de Desarrollador Web Full-Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: REACT.JS / REDUX / JS / HTML / CSS / NODE.JS / EXPRESS / POSTGRESQL / SEQUELIZE / MYSQL / SQL
+
+- 🔭 estoy trabajando en un proyecto para finalizar la academia https://www.soyhenry.com/
+- 🌱 estoy aprendiendo REACT-REDUX
+- 👯 busco colaborar con la empresa que desee contratarme
+- 💬 preguntame lo que necesites
+- 📫 contactame por wpp: 3777 594089 o por gmail: gerar.fornies@gmail.com
+
